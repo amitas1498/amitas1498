@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Project
-- 📫 How to reach me ...
 
 <!---
 amitas1498/amitas1498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
